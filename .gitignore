@@ -1,0 +1,13 @@
+# SQLite Files
+db.sqlite3
+
+# Pycache Files
+__pycache__/
+
+# Environment Files
+.env
+.ven
+
+# Testing Environment Files
+.vscode
+.cph
